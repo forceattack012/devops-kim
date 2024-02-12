@@ -1,4 +1,4 @@
-resource "aws_vpc" "devops-training" {
+resource "aws_vpc" "devOps-kim" {
   cidr_block = "10.0.0.0/16"
 
   tags = {

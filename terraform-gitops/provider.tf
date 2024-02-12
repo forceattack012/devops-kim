@@ -7,10 +7,10 @@ terraform {
     }
   }
   cloud {
-    organization = "DevOps-Java-Bootcamp"
+    organization = "devOps-kim"
 
     workspaces {
-      name = "devops-infra"
+      name = "devops-infra-kim"
     }
   }
 }
